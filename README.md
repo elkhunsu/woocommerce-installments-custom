@@ -1,3 +1,6 @@
+# With Custom Price calculated with PMT + Admin Fee # 
+Reference By Anderson Franco
+
 # WooCommerce Installments #
 
 **Contributors:** Anderson Franco  
